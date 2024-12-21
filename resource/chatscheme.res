@@ -191,7 +191,7 @@ Scheme
 
 	Fonts
 	{
-
+		"isproportional"	"only"
 		"Default"
 		{
 			"1"
@@ -338,6 +338,7 @@ Scheme
 
 		"ChatFont"
 		{
+			isproportional	"only"
 			"1"
 			{
 				"name"			"Verdana"
@@ -377,10 +378,10 @@ Scheme
 			"5"
 			{
 				"name"			"Verdana"
-				"tall"			"22"
-				"weight"		"700"
-				"yres"			"1200 10000"
+				"tall"			"8"
+				"weight"		"300"
 				"dropshadow"	"1"
+				"antialias"		"1"
 			}
 		}
 
